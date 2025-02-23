@@ -1,8 +1,15 @@
-www.businessinsider.com##.pw-header
-www.businessinsider.com##.pw-modal-entry.pw-active
-www.businessinsider.com##.pw-modal-backdrop.pw-active
+abcnews.go.com##.FITT_Article_main__sidebar
+abcnews.go.com##.navigation__hulu
+
+businessinsider.com##.pw-header
+businessinsider.com##.pw-modal-entry.pw-active
+businessinsider.com##.pw-modal-backdrop.pw-active
+
+www.chicagobusiness.com##.side-layout
 
 google.com##.bzXtMb
+
+motherearthnews.com###related
 
 reddit.com###right-sidebar-container
 reddit.com###left-sidebar-container
@@ -21,7 +28,7 @@ wikihow.com###trust_banner
 wikihow.com###header_container
 wikihow.com##.relatedwikihows
 
-youtube.com###secondary
+www.youtube.com###secondary
 youtube.com###end
 youtube.com###voice-search-button
 youtube.com##.ytp-endscreen-content
