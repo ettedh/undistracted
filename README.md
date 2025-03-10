@@ -2,7 +2,7 @@
 
 uBlock Origin filters, for a less distracted browsing experience.
 
-This set of filters aims to block any distractions from websites, like related content, static advertising, and AI "features." It tries to be pretty aggressive in scope.
+This set of filters aims to block any distractions from websites, like related content, static advertising, and AI "features." It tries to be aggressive in scope.
 
 The supported sites can be [found here](undistracted-sites.md).
 
