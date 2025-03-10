@@ -8,6 +8,8 @@ apnews.com##.Page-aside
 apnews.com##.Page-trendingZephr-wrapper
 
 blackboard.com##.stats
+blackboard.com##.box-field-1
+blackboard.com##.box-field-2
 
 businessinsider.com##.pw-header
 businessinsider.com##.pw-modal-entry.pw-active
