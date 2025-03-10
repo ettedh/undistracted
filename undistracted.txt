@@ -1,5 +1,13 @@
+abc7chicago.com##.FITT_Article_main__sidebar
+
 abcnews.go.com##.FITT_Article_main__sidebar
 abcnews.go.com##.navigation__hulu
+
+apnews.com##.Page-aside
+# apnews.com##.Page-header-stickyWrap
+apnews.com##.Page-trendingZephr-wrapper
+
+uic.blackboard.com##.stats
 
 businessinsider.com##.pw-header
 businessinsider.com##.pw-modal-entry.pw-active
@@ -7,9 +15,24 @@ businessinsider.com##.pw-modal-backdrop.pw-active
 
 www.chicagobusiness.com##.side-layout
 
+fortune.com###offer-0-LBFuJ
+
 google.com##.bzXtMb
 
+independent.co.uk##.sidebar
+independent.co.uk##.related
+
+linkedin.com##[data-view-name="profile-card"]
+linkedin.com##[aria-label="LinkedIn News"]
+linkedin.com##.premium-upsell-link
+linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
+
 motherearthnews.com###related
+www.motherearthnews.com##.flex.flex-col.items-center.md\:items-end.justify-center.md\:justify-end.space-y-6.sticky.top-20.z-10
+
+newyorker.com##[data-test-id="ContentFooterBottom"]
+
+quora.com##.dom_annotate_related_questions
 
 reddit.com###right-sidebar-container
 reddit.com###left-sidebar-container
@@ -22,13 +45,17 @@ stackexchange.com###left-sidebar
 stackexchange.com###sidebar
 stackexchange.com###credential_picker_container
 
+chicago.suntimes.com##.Page-below
+chicago.suntimes.com##aside
+chicago.suntimes.com##.ArticlePage-linkSet
+
 wikihow.com###article_courses_banner
 wikihow.com###sidebar
 wikihow.com###trust_banner
 wikihow.com###header_container
 wikihow.com##.relatedwikihows
 
-www.youtube.com###secondary
+www.youtube.com###related
 youtube.com###end
 youtube.com###voice-search-button
 youtube.com##.ytp-endscreen-content
