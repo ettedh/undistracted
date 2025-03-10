@@ -7,7 +7,7 @@ apnews.com##.Page-aside
 # apnews.com##.Page-header-stickyWrap
 apnews.com##.Page-trendingZephr-wrapper
 
-uic.blackboard.com##.stats
+blackboard.com##.stats
 
 businessinsider.com##.pw-header
 businessinsider.com##.pw-modal-entry.pw-active
