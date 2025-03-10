@@ -22,7 +22,7 @@
 - LinkedIn
 - YouTube
 
-# Other sites
+## Other sites
 
 - Blackboard
 - Wikihow
