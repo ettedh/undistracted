@@ -1,16 +1,28 @@
 # List of sites supported by undistracted
 
-- Wikihow
+## Articles & News
 
-## Articles
+- ABC 7 Chicago
 - ABC News
-- Chicago Business
+- AP News
 - Business Insider
+- Chicago Business
+- Chicago Sun-Times
+- The Independent
 - Mother Earth News
+- The New Yorker
 
-## Fora
+## Forums
+
 - Reddit
 - Stack Exchange
 
 ## Social Media
+
+- LinkedIn
 - YouTube
+
+# Other sites
+
+- Blackboard
+- Wikihow
