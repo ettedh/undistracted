@@ -19,6 +19,10 @@ chicagobusiness.com##.side-layout
 
 dailymail.co.uk##.beta
 
+fandom.com###global-explore-navigation
+fandom.com###WikiaBar
+fandom.com##.page__right-rail
+
 fortune.com###offer-0-LBFuJ
 
 google.com##.bzXtMb
