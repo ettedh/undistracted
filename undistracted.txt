@@ -17,6 +17,8 @@ businessinsider.com##.pw-modal-backdrop.pw-active
 
 chicagobusiness.com##.side-layout
 
+dailymail.co.uk##.beta
+
 fortune.com###offer-0-LBFuJ
 
 google.com##.bzXtMb
