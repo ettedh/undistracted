@@ -8,12 +8,15 @@
 - Business Insider
 - Chicago Business
 - Chicago Sun-Times
+- Daily Mail
 - The Independent
 - Mother Earth News
 - The New Yorker
 
 ## Forums
 
+- Fandom
+- KnowYourMeme
 - Reddit
 - Stack Exchange
 
