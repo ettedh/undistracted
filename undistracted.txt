@@ -30,6 +30,12 @@ google.com##.bzXtMb
 independent.co.uk##.sidebar
 independent.co.uk##.related
 
+knowyourmeme.com##.episode
+knowyourmeme.com##.sidebar
+knowyourmeme.com##.social-buttons
+knowyourmeme.com###leaderboard
+knowyourmeme.com###trending-bar
+
 linkedin.com##[data-view-name="profile-card"]
 linkedin.com##[aria-label="LinkedIn News"]
 linkedin.com##.premium-upsell-link
